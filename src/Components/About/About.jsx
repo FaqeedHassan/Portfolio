@@ -7,10 +7,10 @@ const About = () => {
     <section className={styles.container} id='about'>
         <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
-        <img src={getImageUrl("about/aboutImage.png")} alt="My image sitting with laptop" className={styles.aboutImage} />
+        <img src={getImageUrl("/images/about/aboutImage.png")} alt="My image sitting with laptop" className={styles.aboutImage} />
         <ul className={styles.aboutItems}> 
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
+                <img src={getImageUrl("/images/about/cursorIcon.png")} alt="Cursor Icon" />
                 <div className={styles.aboutItemText}>
                     <h3>Frontend Developer</h3>
                     <p>
@@ -20,7 +20,7 @@ const About = () => {
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/serverIcon.png")} alt="Server Icon" />
+                <img src={getImageUrl("/images/about/serverIcon.png")} alt="Server Icon" />
                 <div className={styles.aboutItemText}>
                     <h3>Backend Developer</h3>
                     <p>
@@ -30,7 +30,7 @@ const About = () => {
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/storeIcon.png")} alt="Store Icon" />
+                <img src={getImageUrl("/images/about/storeIcon.png")} alt="Store Icon" />
                 <div className={styles.aboutItemText}>
                     <h3>Shopify Store</h3>
                     <p>
