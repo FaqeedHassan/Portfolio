@@ -11,8 +11,8 @@ const Navbar = () => {
         <div className={styles.menu}>
             <img className={styles.menubtn} src={
                 menuOpen 
-                ? getImageUrl("/images/nav/closeIcon.png") 
-                : getImageUrl("/images/nav/menuIcon.png")} 
+                ? "/images/nav/closeIcon.png"
+                : "/images/nav/menuIcon.png"} 
                 alt="menu-button"
                 onClick={()=>setMenuOpen(!menuOpen)} 
                 />

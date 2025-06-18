@@ -5,7 +5,7 @@
       "startDate": "June, 2024",
       "endDate": "Sep,2024",
       "experiences": ["Worked on Html,CSS,Javascript,PHP"],
-      "imageSrc": "history/nav.png"
+      "imageSrc": "/images/history/nav.png"
     },
     {
       "role": "Model Training",
@@ -13,7 +13,7 @@
       "startDate": "June, 2024",
       "endDate": "May, 2025",
       "experiences": ["Worked on Yolo Model training", "Design the schema of the project"],
-      "imageSrc": "history/uet3.png"
+      "imageSrc": "/images/history/uet3.png"
     },
     {
       "role": "Intelligent Invoice Management System",
@@ -25,6 +25,6 @@
         "Annotate generated invoices",
         "Helped create UI components"
       ],
-      "imageSrc": "history/uet3.png"
+      "imageSrc": "/images/history/uet3.png"
     }
   ]
