@@ -22,17 +22,21 @@
 
 
 .title{
-    font-size: 72px;
-    font-weight: 900;
-    margin-bottom: 33px;
-    font-family: Poppins,sans-serif;
-    background: linear-gradient(
-        90deg,
-        rgba(255,255,255,1)70%,
-        rgba(255,255,255,0)120%
-    );
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+     font-size: 72px;
+  font-weight: 900;
+  margin-bottom: 33px;
+  font-family: Poppins, sans-serif;
+
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 70%,
+    rgba(255, 255, 255, 0) 120%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  /* Fallback for unsupported browsers or when gradient fails */
+  color: white;
 }
 
 .description{
