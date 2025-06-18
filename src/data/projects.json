@@ -2,24 +2,24 @@
     {
       "title": "Employee Management System",
       "imageSrc": "projects/EMP.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "This project made for managing employees and their tasks. It involves a login functionality for both admin and employees",
+      "skills": ["React"],
       "demo": "https://www.example.com",
       "source": "https://github.com/FaqeedHassan/EmployeeManagementSystem"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/EMP.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "Super Store ",
+      "imageSrc": "projects/store.png",
+      "description": "This is a project made for online grocery shopping. User can easily buy grocery items through this store",
+      "skills": ["HTML", "CSS", "JavaScript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/FaqeedHassan/SuperStore"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/EMP.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Portfolio",
+      "imageSrc": "projects/portfolio.png",
+      "description": "This is my portfolio that shows all about me , my experience, my projects..",
+      "skills": ["React"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
